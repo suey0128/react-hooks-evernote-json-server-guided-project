@@ -62,12 +62,17 @@ p.instructions {
   padding: 4px;
 }
 
-.filter {
+.filter{
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   border: 2px dashed grey;
+}
+
+.sortBar {
+  font-size: 25px;
+  margin-top: 5px;
 }
 
 input {
@@ -185,3 +190,22 @@ button:hover, .nav-bar:hover, input[type="submit"]:hover {
 button:focus, input[type="submit"]:focus {
   outline: none;
 }
+
+.dateOnSideBar {
+  font-size: 12px;
+}
+
+.dateContainerOnViewer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 14px
+}
+
+#beforeLogin {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+

@@ -1,11 +1,18 @@
 import React from "react";
 import NoteItem from "./NoteItem";
 
-function NoteList() {
+function NoteList({ notesArr, onSideBarLiClick, filteredNotes, notesArrSetter }) {
+
   return (
     <ul>
-      {/* Render list of notes here... */}
-      <NoteItem />
+      {
+      filteredNotes.map((note)=><NoteItem key={note.id} 
+                                     note={note}
+                                     onSideBarLiClick={onSideBarLiClick}
+                                     notesArrSetter={notesArrSetter}
+                                     notesArr={notesArr}
+                                     />)
+      }
     </ul>
   );
 }

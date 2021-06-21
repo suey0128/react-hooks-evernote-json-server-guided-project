@@ -1,1 +1,139 @@
-{}
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sky",
+      "password": "1234"
+    },
+    {
+      "name": "Suey",
+      "email": "syui0128@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Sue",
+      "email": "jia.yao@hotmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Quas et nihil.",
+      "body": "Ea et eos molestiae nemo. Ut aperiam unde sit sunt nesciunt in fugiat quam. Libero est et. Qui magnam praesentium molestiae fugiat. Rem molestiae cum odio dolor consequatur.\n \rIllum similique exercitationem possimus laudantium velit error repellat facere. Nemo nesciunt et modi qui rerum dolorem. Beatae animi optio est iure suscipit voluptates quia sed. Id et quia repellat qui tenetur. Omnis doloribus tempora molestiae atque vel id. Aut similique ipsa error quam et enim omnis.\n \rAspernatur esse et provident voluptas blanditiis maxime voluptatem nisi qui. A earum quis voluptatem voluptatibus qui voluptatem voluptates dicta odit. Quisquam quos aperiam laboriosam. Harum et fuga placeat sed nulla nisi est sed. Laudantium corporis rerum. Et veniam consectetur aliquam et occaecati nam ea officiis aperiam."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Ea quidem.",
+      "body": "Commodi quisquam non debitis fugit id aut et expedita dolorem. Vel sint laudantium facere temporibus eos est nostrum et. Sunt sit nisi mollitia. Amet cumque atque vel.\n \rVel consequatur enim explicabo tenetur corporis quia in praesentium blanditiis. Possimus voluptate molestiae nesciunt perspiciatis est illum explicabo dolorem. Aspernatur qui animi quia dolore voluptatem occaecati. Quos necessitatibus dicta eaque ut esse consequatur accusamus earum ut.\n \rQuisquam labore ut voluptas aut quia et amet. Ex sed perspiciatis praesentium iure quidem ipsam omnis quia corporis. Est ipsum asperiores libero beatae sint aut ut dolores. Enim repellendus aut non. Reprehenderit maxime qui facilis dignissimos."
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Consectetur.",
+      "body": "Beatae totam atque adipisci eius dolor et hic similique alias. Voluptas assumenda et alias labore dolor voluptatem et sunt eum. Dolore ut ut.\n \rDignissimos ad laboriosam et consequatur et commodi autem in officia. In necessitatibus dolores distinctio autem sed ut aspernatur. Dolor laboriosam minus rerum veritatis libero. Natus qui dolor corporis qui et.\n \rRem aut perferendis dolores vel numquam nemo beatae. Reiciendis consectetur ducimus nobis atque recusandae. Vitae ut mollitia sint in non modi quidem. Eaque repellat quo quam vel ut ex minus ut. Veritatis ut a consequatur repudiandae dolorem facilis sunt rerum maiores."
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Consequatur.",
+      "body": "Enim quia facere iste pariatur. Dolor facere vero et dignissimos at. Recusandae doloremque totam. Vero doloribus enim at voluptatem.\n \rLaudantium iusto ut. Ut dolorem consequatur aut deserunt molestias quae accusamus tenetur. Magnam non nemo sint distinctio mollitia.\n \rLaborum et dolorem atque itaque provident ea ullam non. Qui sit dolorem reiciendis illum pariatur ut accusamus sunt. Soluta sit quo debitis et. Et aut quae qui nemo. Maiores est officiis."
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "Voluptatem qui.",
+      "body": "Ut atque culpa iste dolorem modi itaque. Adipisci adipisci expedita quas quas velit voluptatum necessitatibus iure eveniet. Incidunt eius iure exercitationem eum atque sint omnis. Ut provident molestias animi eum iusto aut aut vel mollitia. Enim magnam dolorem tempore voluptates expedita accusamus ex omnis aut. Odio ullam nihil est ea totam est cupiditate.\n \rVoluptas quasi dicta explicabo et qui temporibus nemo quis quis. Necessitatibus occaecati autem non harum ut et porro eum quas. Iste nisi qui ut sit non nulla.\n \rNatus harum molestiae. Rerum hic aut natus nostrum vero atque ut sint. Qui enim error dicta minus qui ab incidunt voluptatem. Commodi omnis quis nulla ut dignissimos. Consectetur non soluta vitae voluptatem asperiores odio. Incidunt dignissimos architecto rerum non."
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "Maiores labore eveniet.",
+      "body": "Possimus et asperiores quis assumenda similique porro doloremque animi minus. Eos sapiente nobis sed. Omnis itaque possimus velit itaque enim tempore sint ullam. Nihil alias quia.\n \rDoloremque alias consectetur reiciendis blanditiis ut rem. Aliquid ea sit. Qui recusandae voluptates eaque quia corrupti voluptatibus. Molestiae et non. Enim similique ad quae rerum consequatur ea distinctio maiores laudantium.\n \rMolestias consectetur repudiandae sed impedit iste autem itaque. Et aliquid cumque similique cupiditate voluptas. Ut reprehenderit dolores sit similique."
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "title": "Quidem autem rem labore.",
+      "body": "Maxime maiores quibusdam cum possimus. Autem ipsam libero dolorem voluptas delectus quas corporis. Mollitia sed quod dolorem. Molestiae rerum dolores quia nesciunt. Sed provident fugit rerum dignissimos illo vitae doloribus aut.\n \rNumquam odio molestiae dolore aut voluptatem eligendi. Eius eaque optio odio recusandae consequuntur consequatur accusantium. Tempore est nemo ut quibusdam et sit laborum sapiente fugit. Est minus aut voluptas sint ea impedit autem.\n \rBlanditiis dicta quia. Provident voluptatibus ea a eveniet voluptatum eum illum et aut. Ut neque et. Itaque sapiente placeat. Iusto tenetur saepe dolorem neque dolores architecto pariatur voluptas ea. Esse suscipit et iste sint qui temporibus cupiditate recusandae."
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "title": "Sunt voluptatem hic.",
+      "body": "Est adipisci ut voluptatem. Eos ullam recusandae inventore voluptatem deleniti. Id veritatis rem cum nulla voluptatibus odit sapiente rerum. Recusandae maxime eos est. Rerum distinctio odit accusantium fuga dolorem voluptates tempora.\n \rMolestiae totam nulla quis architecto neque eos molestiae facilis. Quaerat adipisci voluptates doloribus. Maxime possimus eligendi dicta error cupiditate. Ullam enim et consequuntur pariatur iure mollitia officiis est eveniet. Eos ipsum reprehenderit labore. Qui eveniet ut voluptas adipisci nostrum debitis quisquam.\n \rSunt aut provident sunt veritatis eos ducimus et. Praesentium qui at reprehenderit error sit quas est aut sit. Consequatur esse iure magnam alias quia et eius blanditiis. Hic non aut."
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "title": "Et.",
+      "body": "Ipsam nostrum aut voluptatem aliquid qui culpa fuga ut. Ex quibusdam labore est. Nemo quisquam nesciunt quisquam animi qui quas. Unde nobis fugiat. Sequi harum alias non est dolores labore fugit. Fugiat et quia ratione sunt et.\n \rEt esse consequatur illo culpa iure ab ab nam. Minima sit quia nam non. Quisquam et veritatis accusamus minus optio sapiente facere. Voluptatem sed officia eveniet cum. Et omnis et sed tenetur vel qui.\n \rCorporis debitis quas ab praesentium distinctio at quam aut. Voluptatibus iste ea est sequi accusantium error accusantium fugiat. Id nemo et qui voluptas velit voluptatem nemo. Est voluptate aut cumque tempore autem. Deserunt illum voluptas sapiente corporis quia rem quas omnis sapiente."
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Assumenda.",
+      "body": "Voluptatem provident neque quae. Qui maxime beatae. Tenetur non porro labore. Enim et maiores omnis quo ut earum et qui.\n \rMolestiae rerum odit consequuntur earum quo et. Recusandae quis eligendi in nemo dolorem facere eum. Sed optio accusamus doloremque aut non. Vel maiores nesciunt vero ut repudiandae magnam sequi.\n \rPerferendis necessitatibus quis. Ad reiciendis rerum doloribus ex non corporis non quod. Culpa iure qui. Ipsa quidem itaque architecto excepturi eius nobis enim et. Praesentium in consequatur qui."
+    },
+    {
+      "userId": 1,
+      "title": "defaultsadas",
+      "body": "dasdsadplaceholder",
+      "dateCreated": "6-18-2021",
+      "dateEdited": "6-18-2021",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "default",
+      "body": "placeholder",
+      "dateCreated": "6-19-2021",
+      "dateEdited": "6-19-2021",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "default",
+      "body": "placeholder",
+      "dateCreated": "6-20-2021",
+      "dateEdited": "6-20-2021",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "default",
+      "body": "placeholder",
+      "dateCreated": "6-20-2021",
+      "dateEdited": "6-20-2021",
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "title": "default",
+      "body": "placeholder",
+      "dateCreated": "6-20-2021",
+      "dateEdited": "6-20-2021",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "suey's 2nd note",
+      "body": "yayyyyyydsadasdsadas",
+      "dateCreated": "6-20-2021",
+      "dateEdited": "6-20-2021",
+      "id": 20
+    },
+    {
+      "userId": "2",
+      "title": "default",
+      "body": "placeholder",
+      "dateCreated": "6-20-2021",
+      "dateEdited": "6-20-2021",
+      "id": 21
+    }
+  ]
+}
